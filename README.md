@@ -1,6 +1,6 @@
 # MsSQL_Practise
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fdatabase-WVb7BqrKsY&psig=AOvVaw2gg_juIxIOX2mENLpXrhcM&ust=1701471761362000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj2t7Hq7IIDFQAAAAAdAAAAABAQ)
+![Logo](https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif)
 
 My SQL Journey Repository 🚀
 Hey there! 👋 Welcome to my SQL Journey Repository. Here, you'll find a treasure trove of challenges, victories, and solutions as I navigate the intricacies of MS SQL.
