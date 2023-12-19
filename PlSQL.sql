@@ -1,3 +1,45 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKxl,.   .
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKkoc,..       
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKko:'.           .;
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKOo:'.         ..    .cx
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNNXXK0kdc,.            ..     ;ox0
+MMMMMMMMMMMMMMMMMMMMMMW0ddx0NWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0o;'......           .;:;;;.    'l:;xW
+MMMMMMMMMMMMMMMMMMMMMMMK;  .,lONMMMMMMMMMMMMMMMMMMMMMMMMMMMNO:. ...              .oKKOd:.   .lx:.cXM
+MMMMMMMMMMMMMMMMMMMMMMMMK;    .:OWMMMMMMMMMMMMMMMMMMMMMMWXk:.  .lO0l.          .:ONXko,...'o0k, ;KMM
+MMMMMMMMMMMMMMMMMMMMMMMMM0,     .lKWMMMMMMMMMMMMMWMMMN0d:.     ..;l,      ..';lkKKK000OxkOXWNd.'OMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMWk.      ,kWMMMMMMMMMMMN0Oxc'.                  .;ldk00000KKKXNNXkxOo'dWMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNo       .oNMMMMMMWXkl,.                   .,lkKNWWMMMMMMWXKKNWKxl;.;KMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMK;        cXMMWXkc'          ...       .:xKWMMMMMWNX0OkxxxkOKXK0Od:dNMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWd         c0Ol.      ...          ..;xXWMMMWNKko:;;'..;::..';lkKX0XMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMO.         ..      .'.          'oOKNWMWN0xc,...lkx, :KKd..ld,.;oxKMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK,                .;.         .oKWMWX0kl,';,.. ;0O;  .:,  .ox;,..xWMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMK;                ;'         ;0WMNk;.''. ;0d.  .;.         '.,cckNMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWWWM0,            ....;'        ;KMW0:. ;Ox.  ;,                 .oXWMMMMMMM
+MMMMMMMMMMMMMMMWWWWMMWWNNWMWx.            .,. ..       ;0WWO'.,';Ol                   .. ,0MMMMMMMMM
+MMMMMMMMMWWWMMMMWNNWWXKXWWXd.            .':.        .:KMNd..... '.                  'xO:oNMMMMMMMMM
+MMMMMMMMMNKXWWMMWNKNWNWMNx'              ..c:      ..cKWKc. ',                    .'.'OMNNWMMMMMMMMM
+MMMMMMMMMMWNXNNWNK0XWMNk;               .:;';.  ..';xXNk'                      ..,oOxdXMMMMMMMMMMMMM
+MMMMMMMMMMWX00NNK0NWWO:.               ..ckc'..,lk0XWKc.                      .x0dxNWWWMMMMMMMMMMMMM
+MMMMWWMWWMNXK0X0KWWKl.   .             ':,dX0kkKWMMNk,.                     .'kWMWNMMMMMMMMMMMMMMMMM
+MMMWNWXKNWWKKWXKXKd'. .                'xo,oXMMWMXkl..;.                   .:kWMMMMMMMMMMMMMMMMMMMMM
+MMMMWWNK0KXXWN0KXd'...,;.              .dNOoOWMW0;.  .'.                  .;xNMMMMMMMMMMMMMMMMMMMMMM
+MMMMWNX0OKXNX00d:,.    .;'.      ...    'OWMWWWKolxkOx;..                 'ckMMMMMMMMMMMMMMMMMMMMMMM
+WMMMWNKO0XKXKd,  ..    .c;..       ..   .xNMWWWXKNWMMMNk,.;l.             ,:xMMMMMMMMMMMMMMMMMMMMMMM
+WWNXNN00KKkc;,.     .:;oo.......'..':,..,dXWWWWMMMWWXXMWKo:,.;o:          ..:XWNWMMMMMMMMMMMMMMMMMMM
+MWWXKKK0kdo;.,:'..'l0X0kl,. .'';;;dOl':o,oXWMMWMMNXKxdXWMWk;,xO,   .;'   .. .;coXMWKKWMMMMMMMMMMMMMM
+MMMWWX0dloxo;. ....lOKk, ...    ..lKl...:lo0WMMWWX0d;,:OWMWNkl,...'kXl    .'. .:OOc:xWMMWWWMMMMMMMMM
+MMMMMMWXOkOxc;,,;:ooc:oo'.       'dKO'   .;lox0XNWWKc. .oXWWMN0xc..lk: .:. .lc.....,o0Xkd0WMMMMMMMMM
+MMMMMMWWWWN0ook0XX0kkxkOkx:.     cOOx;.    .'.':dxlll:'  ,lxO0KNN0dc;..,c..cOo.';..;:,'.,oKMMMMMMMMM
+MMMMMMMMMMMMWNXXWMNNWMNxodxdll;'',okl. ...     .oxc:,''.   ....';coxkkxdolclc:',,..,.....;0WMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMNOdxOXO,...,:,,'..':,.  .,'',;:;.           ..cdkkxdodxxkkddkxxdolOWMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWNXXXOdcclc;';ol,.;OXkc,'''...dK0l;.                   .....';cdOKNMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMWWWX00XNkdkxdddxkkKXOdxkkxxddloxl'..                  ..;,',ckNMWWWMWWMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWMMWKxoodddkOKXKkxdcokOxdxl:,....  ...     .,';c;,:oxO00KNWNNWMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKkdl:::coxkO00kdc;:lxOKX0o:;'.'lxxdolc::::coONX00K0k0XNNNMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNNWWWWWKkc;;coOXWWX00OdllloxKNMWWNWNXNMWWMWMMMWMMMMM
+
+
+
 -- 1. Write a simple PL/SQL program. Declare a variable,
 -- assign the number of records in the EMP table to that variable,
 -- and print the result as "There are 10 persons in the table," for example.
@@ -130,3 +172,5 @@ EXCEPTION
     WHEN OTHERS THEN
         DBMS_OUTPUT.PUT_LINE(SQLERRM);
 END;
+
+
