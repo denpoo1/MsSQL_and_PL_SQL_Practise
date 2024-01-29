@@ -301,3 +301,104 @@ select * from Zwierze;
 
 
 
+
+
+-- Topic 11 – PL/SQL, Triggers
+-- Create a trigger that prevents deleting a record from the Emp table.
+create or replace trigger forbiddenDelete
+    before delete
+    on EMP
+    for each row
+begin
+    raise_application_error(-20100, 'Forbidden operation: Deletion not allowed');
+end;
+
+
+-- Create a trigger that checks whether new salaries (inserted or updated) in the Emp table are greater than 1000.
+-- If not, the trigger should raise an error and prevent the insertion of the record.
+-- Note: The same effect can be achieved more easily using CHECK constraints. 
+-- Let's use a trigger for training purposes.
+create or replace trigger checkUpdateOrInsert
+    before update of SAL or insert
+    on EMP
+    for each row
+begin
+    if :new.sal < 1000 then
+        raise_application_error(-20100, 'Salary must be more than 1000');
+    end if;
+end;
+
+
+CREATE TABLE budget
+(
+    value INT NOT NULL
+);
+
+INSERT INTO budget (value)
+SELECT SUM(sal)
+FROM EMP;
+
+SELECT *
+FROM budget;
+
+
+-- Create a trigger that ensures the value in the budget table is always up-to-date.
+-- Therefore, for all operations that update the emp table (INSERT, UPDATE, DELETE), the trigger will update the entry in the budget table.
+create or replace trigger plusBudget
+    before update or insert or delete
+    on EMP
+    for each row
+declare
+    oldSal NUMBER(7, 2) := nvl(:old.sal, 0);
+    newSal NUMBER(7, 2) := nvl(:new.sal, :old.sal);
+begin
+    update budget set value = value + (newSal - oldSal);
+end;
+
+
+-- Write a single trigger that:
+--  • Prevents the deletion of an employee whose salary is greater than 0.
+--  • Prevents changing the last name of an employee.
+--  • Prevents inserting an employee who already exists (checking by last name).
+create or replace trigger checkEmp
+    before insert or delete or update of ENAME
+    on Emp
+    for each row
+declare
+    empno_count int;
+begin
+    if deleting then
+        if :old.sal > 0 then
+            raise_application_error(-20100, 'Forbidden: Deletion not allowed for employee with salary greater than 0');
+        end if;
+    elsif inserting then
+        select count(*) into empno_count from EMP where ENAME = :new.ename;
+        if empno_count > 0 then
+            raise_application_error(-20100, 'Employee with last name ' || :new.ename || ' already exists');
+        end if;
+    elsif updating then
+        raise_application_error(-20100, 'Forbidden: Changing last name not allowed');
+    end if;
+end;
+
+
+-- Write a trigger that:
+--  • Prevents decreasing the salary.
+--  • Prevents deleting employees.
+create or replace trigger checkSalAndDelete
+    before delete or update of SAL
+    on EMP
+    for each row
+begin
+    if deleting then
+        raise_application_error(-20100, 'Forbidden: Deletion not allowed for employees');
+    elsif updating then
+        if :new.sal < :old.sal then
+            raise_application_error(-20100, 'New salary must be greater than old salary');
+        end if;
+    end if;
+end;
+
+
+
+
